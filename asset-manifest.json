@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CN_INTERVIEW_DASHBOARD_CLIENT/static/css/main.e6c13ad2.css",
+    "main.js": "/CN_INTERVIEW_DASHBOARD_CLIENT/static/js/main.4ac2111d.js",
+    "static/js/787.1937f22b.chunk.js": "/CN_INTERVIEW_DASHBOARD_CLIENT/static/js/787.1937f22b.chunk.js",
+    "index.html": "/CN_INTERVIEW_DASHBOARD_CLIENT/index.html",
+    "main.e6c13ad2.css.map": "/CN_INTERVIEW_DASHBOARD_CLIENT/static/css/main.e6c13ad2.css.map",
+    "main.4ac2111d.js.map": "/CN_INTERVIEW_DASHBOARD_CLIENT/static/js/main.4ac2111d.js.map",
+    "787.1937f22b.chunk.js.map": "/CN_INTERVIEW_DASHBOARD_CLIENT/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4ac2111d.js"
+  ]
+}
