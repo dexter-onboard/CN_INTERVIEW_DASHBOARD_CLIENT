@@ -15,7 +15,7 @@ const Login = () => {
       password
     }
 
-    const response = await fetch('http://localhost:8000', {
+    const response = await fetch('https://ill-red-bison-hose.cyclic.app', {
       method: 'POST',
       body: JSON.stringify(userObj),
       headers: {
